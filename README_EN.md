@@ -2,45 +2,39 @@
   <strong>🇬🇧 English</strong> | <a href="./README.md">🇷🇺 Русский</a>
 </p>
 
-👋 Hi, I'm xxx xxx.
-
+👋 Hi, I'm Ilia Timonin.
 I'm currently developing my skills in data analytics.
 
-🎯 Focus areas
-
+#### 🎯 Focus areas
 I work on projects related to data collection, processing, and analysis. I'm interested in new technologies, investments, and personal finance.
+1. Data collection
+2. Data processing
+3. Analytics
+4. Visualization
 
-    Data collection
-    Data processing
-    Analytics
-    Visualization
+#### 🛠️ My skills
+1. Analyze data using Python and Excel
+2. Write web scrapers in Python
+3. Create visualizations in Yandex DataLens
+4. Use Git for collaborative work
 
-
-🛠️ My skills
-
-    Analyze data using Python and Excel
-    Write web scrapers in Python
-    Create visualizations in Yandex DataLens
-    Use Git for collaborative work
-
-
-🗂️ Projects
-
+#### 🗂️ Projects
 Below are completed projects with my direct involvement:
-
-    Dashboard "Financial Metrics". Built with Yandex DataLens. A dashboard for comprehensive analysis of financial metrics for brands and the product assortment of a company operating in the beauty products retail sector.
-    Heart rate analysis from a smartwatch. Source data exported as CSV files from my account in the Zepp app. Watch model — Amazfit GTR 4.
-    Prompt for creating Anki cards. Using the power of AI to quickly memorize new information during study, exam preparation, interviews, etc.
-
-
-📜 Certifications and verification
-
-    Data Analyst — karpov.courses (June 2025). Verify
-    SQL Window Functions — Stepik (August 2025). Verify
-    Excel Power Query and Pivot (+Power BI) — Stepik (July 2025). Verify
+1. Dashboard "Financial Metrics". Built with Yandex DataLens. A dashboard for comprehensive analysis of financial metrics for brands and the product assortment of a company operating in the beauty products retail sector.
+2. Heart rate analysis from a smartwatch. Source data exported as CSV files from my account in the Zepp app. Watch model — Amazfit GTR 4.
+3. Prompt for creating Anki cards. Using the power of AI to quickly memorize new information during study, exam preparation, interviews, etc.
 
 
-📬 Contact
-zzz
+ <details>
+<summary> <strong> 📜 Certifications and verification</strong></summary>
 
-zzz
+  - Data Analyst — karpov.courses (June 2025). [Verify](https://lab.karpov.courses/certificate/45981a77-fa7f-49ef-8cf3-ebfa6c1d9a9e/)  
+  - SQL Window Functions — Stepik (August 2025). [Verify](https://stepik.org/cert/2943572)
+  - Excel Power Query and Pivot (+Power BI) — Stepik (июль 2025). [Verify](https://stepik.org/cert/2938659)
+
+</details>
+
+
+#### 📬 Contact
+timoninia@gmail.com  
++7 926 810 00 70

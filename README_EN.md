@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>🇬🇧 English</strong> | <a href="./README.md">🇷🇺 Русский</a>
+</p>
+
 👋 Hi, I'm xxx xxx.
 
 I'm currently developing my skills in data analytics.

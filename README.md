@@ -1,5 +1,5 @@
 <p align="right">
-  <strong>🇷🇺 Русская</strong> | <a href="./README.en.md">🇬🇧 English</a>
+  <strong>🇷🇺 Русский</strong> | <a href="./README_EN.md">🇬🇧 English</a>
 </p>
 
 👋 Привет, меня зовут Илья Тимонин.                         

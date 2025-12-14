@@ -32,6 +32,7 @@
   - Аналитик данных — karpov.courses (июнь 2025). [Проверить](https://lab.karpov.courses/certificate/45981a77-fa7f-49ef-8cf3-ebfa6c1d9a9e/)  
   - Оконные функции SQL — Stepik (август 2025). [Проверить](https://stepik.org/cert/2943572)
   - Excel Power Query и Pivot (+Power BI) — Stepik (июль 2025). [Проверить](https://stepik.org/cert/2938659)
+  - Advanced Excel: поиск решений, аналитика и прогнозирование — Stepik (декабрь 2025) [Проверить](https://stepik.org/cert/3050741)
 
 </details>
 

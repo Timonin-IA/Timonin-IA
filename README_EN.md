@@ -28,9 +28,10 @@ Below are completed projects with my direct involvement:
  <details>
 <summary> <strong> 📜 Certifications and verification</strong></summary>
 
-  - Data Analyst — karpov.courses (June 2025). [Verify](https://lab.karpov.courses/certificate/45981a77-fa7f-49ef-8cf3-ebfa6c1d9a9e/)  
-  - SQL Window Functions — Stepik (August 2025). [Verify](https://stepik.org/cert/2943572)
-  - Excel Power Query and Pivot (+Power BI) — Stepik (июль 2025). [Verify](https://stepik.org/cert/2938659)
+  - Data Analyst — karpov.courses (June 2025)  [Verify](https://lab.karpov.courses/certificate/45981a77-fa7f-49ef-8cf3-ebfa6c1d9a9e/)  
+  - SQL Window Functions — Stepik (August 2025)  [Verify](https://stepik.org/cert/2943572?lang=en)
+  - Excel Power Query and Pivot (+Power BI) — Stepik (July 2025)  [Verify](https://stepik.org/cert/2938659?lang=en)
+  - Advanced Excel: Solution Finding, Analytics, and Forecasting — Stepik (December 2025)  [Verify](https://stepik.org/cert/3050741?lang=en)
 
 </details>
 
